@@ -20,8 +20,8 @@ module.exports = {
   solidity: "0.8.4",
   networks: {
     rinkeby: {
-      url: "33",
-      accounts: ["TE33ST"]
+      url: "API URL HERE",
+      accounts: ["PRIVATE KEY HERE"]
     },
   },
 };

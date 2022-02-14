@@ -7,5 +7,4 @@ typechain
 #Hardhat files
 cache
 artifacts
-config
-    hardhat.congif.js
+config/hardhat.config.js
