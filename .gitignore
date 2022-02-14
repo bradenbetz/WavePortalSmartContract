@@ -9,3 +9,4 @@ cache
 artifacts
 config/hardhat.config.js
 config/config.js
+hardhat.config.js
